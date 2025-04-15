@@ -13,7 +13,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp&theme=light" />
   </a>
 </p>
-<h3>なんか言語＋α系（名称を知らない）</h3>
+<h3>なんか言語＋α系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,arduino,vscode&theme=light" />
