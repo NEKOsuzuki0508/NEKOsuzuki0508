@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <h3>エディタ・環境系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,git,idea,clion,webstorm,mysql,npm,powershell,raspberrypi,replit,unity,vim,visualstudio,vscode,anaconda&theme=light" />
+    <img src="https://skillicons.dev/icons?i=arduino,git,raspberrypi,replit,unity,visualstudio,vscode,anaconda&theme=light" />
   </a>
 </p>
 <h3>その他</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,linux,raspberrypi,ubuntu,wordpress&theme=light" />
+    <img src="https://skillicons.dev/icons?i=discord,github,linux,raspberrypi,ubuntu,wordpress,twitter&theme=light" />
   </a>
 </p>
